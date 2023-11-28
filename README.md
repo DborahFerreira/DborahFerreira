@@ -8,7 +8,7 @@
 ## My name is Déborah Ferreira
 ( Node.js | Java | Spring Boot |  PHP | Golang | AWS | Docker |Terraform | kubernetes | Docker | CI/CD | DevOps ) 🚀
 - 👩‍💻 Software Enginner and Developer Backend
-- 🌐 Passionate about web development
+- 🌐 Passionate about backend development
 - 💡 Love a good challenge
 
 
